@@ -7,19 +7,13 @@
 [![Open Source](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9A-white?style=for-the-badge)](https://github.com/AleenaTahir1/Weatherly)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 
-<img src="https://raw.githubusercontent.com/AleenaTahir1/Weatherly/main/frontend/public/preview.gif" alt="Weatherly Preview" width="600px"/>
-
 *A beautiful and interactive weather dashboard with stunning animations*
 
-[Demo](#) · [Report Bug](https://github.com/AleenaTahir1/Weatherly/issues) · [Request Feature](https://github.com/AleenaTahir1/Weatherly/issues)
+[Live Demo](https://aleenatahir1.github.io/Weatherly) · [Report Bug](https://github.com/AleenaTahir1/Weatherly/issues) · [Request Feature](https://github.com/AleenaTahir1/Weatherly/issues)
 
 </div>
 
 ## ✨ Features
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/AleenaTahir1/Weatherly/main/frontend/public/features.png" alt="Features" width="800px"/>
-</div>
 
 ### 🌟 Key Highlights
 
@@ -78,10 +72,6 @@ npm start
 ```
 
 ## 🎯 Usage
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/AleenaTahir1/Weatherly/main/frontend/public/usage.gif" alt="Usage Demo" width="600px"/>
-</div>
 
 1. 🔍 Enter a city name in the search bar
 2. 📱 View current weather and forecast

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A modern weather dashboard",
   "main": "index.js",
+  "homepage": "https://aleenatahir1.github.io/Weatherly",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
