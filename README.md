@@ -1,78 +1,137 @@
-# Weatherly - Modern Weather Dashboard
+# ⛅ Weatherly
 
-A beautiful and interactive weather dashboard built with React, featuring real-time weather updates, 5-day forecasts, and stunning weather animations.
+<div align="center">
 
-## Features
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+[![Open Source](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9A-white?style=for-the-badge)](https://github.com/AleenaTahir1/Weatherly)
+[![License](https://img.shields.io/badge/license-MIT-blue?style=for-the-badge)](LICENSE)
 
-- **Real-time Weather Data**: Get current weather conditions using the Open-Meteo API
-- **5-Day Forecast**: Detailed weather predictions for the next 5 days
-- **Interactive Weather Effects**: Dynamic animations for different weather conditions
-  - Rain animations with varying intensity
-  - Snowfall effects with realistic movement
-  - Sun rays and heat waves for sunny weather
-  - Lightning effects for thunderstorms
-  - Fog and mist effects
-- **Detailed Weather Information**:
-  - Temperature (current, high, and low)
+<img src="https://raw.githubusercontent.com/AleenaTahir1/Weatherly/main/frontend/public/preview.gif" alt="Weatherly Preview" width="600px"/>
+
+*A beautiful and interactive weather dashboard with stunning animations*
+
+[Demo](#) · [Report Bug](https://github.com/AleenaTahir1/Weatherly/issues) · [Request Feature](https://github.com/AleenaTahir1/Weatherly/issues)
+
+</div>
+
+## ✨ Features
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/AleenaTahir1/Weatherly/main/frontend/public/features.png" alt="Features" width="800px"/>
+</div>
+
+### 🌟 Key Highlights
+
+- **🔄 Real-time Weather Data**
+  - Live updates using Open-Meteo API
+  - Accurate forecasts for any location
+
+- **🎨 Interactive Weather Effects**
+  - 🌧️ Realistic rain animations
+  - ❄️ Beautiful snowfall effects
+  - ⚡ Dynamic lightning animations
+  - 🌫️ Atmospheric fog effects
+  - 🌞 Sun rays and heat waves
+
+- **📊 Detailed Weather Information**
+  - Current conditions
+  - 5-day forecast
+  - Temperature trends
   - Precipitation probability
-  - Humidity levels
-  - Wind speed
-  - Sunrise and sunset times
-- **Smart Weather Tips**: Contextual recommendations based on weather conditions
-- **Responsive Design**: Works seamlessly on desktop and mobile devices
-- **City Search**: Search for weather information in any city worldwide
+  - Wind speed & direction
+  - Sunrise & sunset times
 
-## Technologies Used
+- **💡 Smart Features**
+  - Weather-based recommendations
+  - Location auto-detection
+  - Customizable units
+  - Dark/Light mode
 
-- React.js
-- Tailwind CSS
-- Framer Motion for animations
-- Open-Meteo API for weather data
-- Axios for API requests
+## 🚀 Quick Start
 
-## Installation
+### Prerequisites
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/AleenaTahir1/Weatherly.git
-   ```
+- Node.js (v14 or higher)
+- npm or yarn
 
-2. Navigate to the project directory:
-   ```bash
-   cd weatherly
-   ```
+### Installation
 
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
+1️⃣ Clone the repository
+```bash
+git clone https://github.com/AleenaTahir1/Weatherly.git
+```
 
-4. Start the development server:
-   ```bash
-   npm start
-   ```
+2️⃣ Navigate to project directory
+```bash
+cd weatherly
+```
 
-## Usage
+3️⃣ Install dependencies
+```bash
+npm install
+```
 
-1. Enter a city name in the search bar
-2. View current weather conditions and 5-day forecast
-3. Click on any day to see detailed weather information
-4. Toggle weather effects using the "Show/Hide Effects" button
+4️⃣ Start the development server
+```bash
+npm start
+```
 
-## Contributing
+## 🎯 Usage
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+<div align="center">
+<img src="https://raw.githubusercontent.com/AleenaTahir1/Weatherly/main/frontend/public/usage.gif" alt="Usage Demo" width="600px"/>
+</div>
 
-## License
+1. 🔍 Enter a city name in the search bar
+2. 📱 View current weather and forecast
+3. 🖱️ Click on any day for detailed information
+4. 🎨 Toggle weather animations
+5. 🌙 Switch between dark/light modes
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 🛠️ Tech Stack
 
-## Acknowledgments
+- **Frontend**
+  - React.js
+  - Tailwind CSS
+  - Framer Motion
+  - Axios
 
-- Weather data provided by Open-Meteo API
-- Icons from React Icons library
+- **APIs**
+  - Open-Meteo Weather API
+
+## 🤝 Contributing
+
+Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## 📝 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## 🙏 Acknowledgments
+
+- Weather data provided by [Open-Meteo API](https://open-meteo.com/)
+- Icons from [React Icons](https://react-icons.github.io/react-icons/)
 - Weather animations inspired by various open-source projects
 
-## Author
+## 📬 Contact
 
-Aleena Tahir - [GitHub Profile](https://github.com/AleenaTahir1)
+Aleena Tahir - [@AleenaTahir1](https://github.com/AleenaTahir1)
+
+Project Link: [https://github.com/AleenaTahir1/Weatherly](https://github.com/AleenaTahir1/Weatherly)
+
+---
+
+<div align="center">
+
+Made with ❤️ by [Aleena Tahir](https://github.com/AleenaTahir1)
+
+⭐ Star this project if you find it useful!
+
+</div>
